@@ -1,4 +1,4 @@
-# recommender_system
+# RecommenderSystem
 
 This repository includes the data and notebook for the movie recommender system. We aim to build a system to recommend similar movies to the audience given the movie that he/she previously watched or liked. We go a step further by making this recommender system work with Japanese text. 
 
