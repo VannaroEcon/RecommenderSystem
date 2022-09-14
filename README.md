@@ -7,7 +7,7 @@ This repository includes the data and notebook for the movie recommender system.
 Data (IMDB movies) is obtained from data.world. Originally, the data is in English, but then translated into Japanese to match this study objective.
 
 - First, the data was uploaded to Google Drive and then converted into Google Sheet. 
-- Then, we tranlated those data to Japanese using GOOGLETRANSlATE function.
+- Then, we tranlated those data to Japanese using GOOGLETRANSLATE function.
 - Finally, we cleaned up the data and kept only necessary columns for our analysis.
 
 ## Method
